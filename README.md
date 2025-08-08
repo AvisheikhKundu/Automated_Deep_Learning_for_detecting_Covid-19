@@ -251,7 +251,7 @@ We welcome contributions from the research community. Please follow these guidel
 If you use this work in your research, please cite:
 
 ```bibtex
-@article{kundu_nafis_2024,
+@article{kundu_nafis_2025,
     title={An Automated Deep Learning Model To Assist in the Detecting of Covid-19 Using Chest X-Ray Images},
     author={Avisheikh Kundu and Robiul Hasan Nafis},
     journal={[Journal Name]},
